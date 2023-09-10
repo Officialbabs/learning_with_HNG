@@ -18,7 +18,7 @@ def get_info(request):
     time_validity = valid_time_range[0] <= current_utc_time <= valid_time_range[1]
 
     # Getting GitHub URL of the file being run
-    github_file_url = 'https://github.com/yourusername/yourrepository/blob/main/myapp/views.py'  # Replace with your GitHub URL
+    github_file_url = 'https://github.com/Officialbabs/learning_with_HNG/blob/main/myproject/myapp/views.py'  
 
     # Getting GitHub URL of the full source code
     github_source_url = 'https://github.com/yourusername/yourrepository'  # Replace with your GitHub URL
