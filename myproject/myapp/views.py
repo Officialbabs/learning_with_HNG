@@ -21,7 +21,7 @@ def get_info(request):
     github_file_url = 'https://github.com/Officialbabs/learning_with_HNG/blob/main/myproject/myapp/views.py'  
 
     # Getting GitHub URL of the full source code
-    github_source_url = 'https://github.com/yourusername/yourrepository'  # Replace with your GitHub URL
+    github_source_url = 'https://github.com/Officialbabs/learning_with_HNG'
 
     # The response JSON
     response_data = {
