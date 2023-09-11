@@ -6,7 +6,7 @@ from datetime import datetime
 import pytz
 def get_user_info(request):
     # Slack API token
-    api_token = "xoxp-5525350307635-5861483270790-5879889706050-ed0126cdcde79244d36c0f7508ce40e4"
+    api_token = "xoxe.xoxp-1-Mi0yLTU1MjUzNTAzMDc2MzUtNTg2MTQ4MzI3MDc5MC01ODc2ODU4MTU1MzYyLTU4NzM2MjcyMjQ5MzQtODZkZTU3ZDM4YzgzNDcyNTlhMWEzZGRiN2NhZjdiOGYzZGQwOTI1ODQwMWZkNjNlMGI5NTRiZjQxMzFkYjU3Mw"
 
     # User's Slack name
     slack_name = "U05RBE77YP8"
